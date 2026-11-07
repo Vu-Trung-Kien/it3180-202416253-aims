@@ -3,6 +3,8 @@
 Định dạng theo Keep a Changelog, đánh số theo Semantic Versioning.
 
 ## [Unreleased]
+### Added
+- Cart.sort_by_title() và Cart.sort_by_cost()
 
 ## [1.0.0] - 2026-11-07
 ### Added
@@ -14,4 +16,4 @@
 - Chuyển mã nguồn vào package aims
 - Thông báo thêm đĩa bằng tiếng Việt, kèm tên đĩa
 ### Fixed
-- Giỏ hàng nhận đĩa thứ 21 (#6)
+- Giỏ hàng nhận đĩa thứ 21 (#7)
